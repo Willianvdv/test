@@ -11,5 +11,16 @@
          "type": "none"
      },
      "apiVersion": 1,
-     "modules": {}
+     "modules": {
+         "generalPages": [
+             {
+                 "url": "/helloworld.html",
+                 "key": "hello-world",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Greeting"
+                 }
+             }
+         ]
+     }
  }
