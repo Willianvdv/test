@@ -14,7 +14,7 @@
      "modules": {
          "generalPages": [
              {
-                 "url": "/helloworld.html",
+                 "url": "/users/sign_in",
                  "key": "hello-world",
                  "location": "system.top.navigation.bar",
                  "name": {
