@@ -2,7 +2,7 @@
      "name": "HackerOne",
      "description": "HackerOne <=> JIRA",
      "key": "com.hackerone",
-     "baseUrl": "https://hackerone.com",
+     "baseUrl": "https://raw.githubusercontent.com/Willianvdv/test/master/",
      "vendor": {
          "name": "HackerOne, Inc.",
          "url": "https://www.hackerone.com"
